@@ -1,0 +1,6 @@
+disable_2d_layer=false
+disable_haptics=false
+disable_right_eye=false
+disable_window=false
+mono_rendering=false
+verbose_logging=false

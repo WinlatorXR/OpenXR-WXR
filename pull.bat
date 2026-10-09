@@ -1,0 +1,1 @@
+adb pull /sdcard/Download/Winlator/oxrwxr
